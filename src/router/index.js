@@ -25,6 +25,7 @@ import Deputy from '@/views/Deputy.vue'
 import Topics from '@/views/Topics.vue'
 import TopicCard from '@/views/TopicCard.vue'
 import TopicPill from '@/views/TopicPill.vue'
+import TopicLink from '@/views/TopicLink.vue'
 
 Vue.use(VueRouter)
 
@@ -153,6 +154,11 @@ const routes = [
     path: '/topic-pill',
     name: 'topic-pill',
     component: TopicPill
+  },
+  {
+    path: '/topic-link',
+    name: 'topic-link',
+    component: TopicLink
   },
 ]
 
