@@ -23,6 +23,7 @@ import InitiativeMeta from '@/views/InitiativeMeta.vue'
 import Loader from '@/views/Loader.vue'
 import Deputy from '@/views/Deputy.vue'
 import Topics from '@/views/Topics.vue'
+import TopicCard from '@/views/TopicCard.vue'
 
 Vue.use(VueRouter)
 
@@ -141,6 +142,11 @@ const routes = [
     path: '/topics',
     name: 'topics',
     component: Topics
+  },
+  {
+    path: '/topic-card',
+    name: 'topic-card',
+    component: TopicCard
   },
 ]
 
