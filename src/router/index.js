@@ -22,6 +22,7 @@ import Text from '@/views/Text.vue'
 import InitiativeMeta from '@/views/InitiativeMeta.vue'
 import Loader from '@/views/Loader.vue'
 import Deputy from '@/views/Deputy.vue'
+import Topics from '@/views/Topics.vue'
 
 Vue.use(VueRouter)
 
@@ -135,6 +136,11 @@ const routes = [
     path: '/deputy',
     name: 'deputy',
     component: Deputy
+  },
+  {
+    path: '/topics',
+    name: 'topics',
+    component: Topics
   },
 ]
 
