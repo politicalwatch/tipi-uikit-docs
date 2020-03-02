@@ -24,6 +24,7 @@ import Loader from '@/views/Loader.vue'
 import Deputy from '@/views/Deputy.vue'
 import Topics from '@/views/Topics.vue'
 import TopicCard from '@/views/TopicCard.vue'
+import TopicPill from '@/views/TopicPill.vue'
 
 Vue.use(VueRouter)
 
@@ -147,6 +148,11 @@ const routes = [
     path: '/topic-card',
     name: 'topic-card',
     component: TopicCard
+  },
+  {
+    path: '/topic-pill',
+    name: 'topic-pill',
+    component: TopicPill
   },
 ]
 
