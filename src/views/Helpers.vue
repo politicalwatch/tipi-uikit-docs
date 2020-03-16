@@ -1,11 +1,6 @@
 <template>
   <div class="container">
     <h2>Helpers</h2>
-    <p>Modelo de caja</p>
-    <ul>
-      <li><code>.u-block</code>: establece el valor <code>block</code> a la propiedad <code>display</code></li>
-      <li><code>.u-inline-block</code>: establece el valor <code>inline-block</code> a la propiedad <code>display</code></li>
-    </ul>
     <p>Posición y alineación</p>
     <ul>
       <li><code>.u-relative</code>: establece el valor <code>relative</code> a la propiedad <code>positin</code></li>
