@@ -79,14 +79,14 @@
         <tr>
           <td data-label="Heading 1">Texto tabla valor 1</td>
           <td data-label="Heading 2">Texto tabla valor 2</td>
-          <td data-label="Heading 3">Texto tabla valor 3</td>
+          <td data-label="Heading 3">Texto tabla valor 3 Texto tabla valor 3 Texto tabla valor 3</td>
           <td data-label="Heading 4">Texto tabla valor 4</td>
           <td data-label="Heading 5">Texto tabla valor 5</td>
         </tr>
         <tr>
           <td data-label="Heading 1">Texto tabla valor 1</td>
           <td data-label="Heading 2">Texto tabla valor 2</td>
-          <td data-label="Heading 3">Texto tabla valor 3</td>
+          <td data-label="Ocurrencias">Texto tabla valor 3 Texto tabla valor 3 Texto tabla valor 3</td>
           <td data-label="Heading 4">Texto tabla valor 4</td>
           <td data-label="Heading 5">Texto tabla valor 5</td>
         </tr>

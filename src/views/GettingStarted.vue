@@ -68,6 +68,10 @@ $colors: (
   "neutral": $neutral,
 ) !default;
 
+$navbar-background-color: $white !default;
+$menu-link-color: $secondary-dark !default;
+$navbar-toogle-color: $secondary-dark !default;
+$topic-pill-color: $white !default;
 
 //Breakpoints
 $xs: 450px !default;
