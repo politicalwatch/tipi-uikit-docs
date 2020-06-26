@@ -20,6 +20,7 @@
       <div class="o-grid__col o-grid__col--fill"><tipi-icon icon="success" /></div>
       <div class="o-grid__col o-grid__col--fill"><tipi-icon icon="building" /></div>
       <div class="o-grid__col o-grid__col--fill"><tipi-icon icon="twitter" /></div>
+      <div class="o-grid__col o-grid__col--fill"><tipi-icon icon="github" /></div>
     </div>
     <pre v-highlightjs="ex"><code class="html"></code></pre>
     <p>Puedes especificar el color manualmente usando la propiedad <code>color</code>:</p>
@@ -64,7 +65,8 @@ export default {
 <tipi-icon icon="open-blank" />
 <tipi-icon icon="success" />
 <tipi-icon icon="building" />
-<tipi-icon icon="twitter" />`,
+<tipi-icon icon="twitter" />
+<tipi-icon icon="github" />`,
       ex1:
 `<tipi-icon icon="success" color="#ccc"/>`,
       ex2:
