@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="o-container">
-      <header><h1 class="u-padding-top-2 u-padding-bottom-2">TipiUI Documentation</h1></header>
+      <header><h1 class="u-padding-top-2 u-padding-bottom-2">Documentación TipiUI</h1></header>
       <div class="o-grid">
         <aside class="o-grid__col u-12 u-3@md">
           <ul>
